@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67286" started-at="2021-04-06T15:00:48Z" finished-at="2021-04-06T15:01:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67286" started-at="2021-04-06T15:00:48Z" finished-at="2021-04-06T15:01:56Z">
+      <class name="uiTest.Productdetailstest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="openbrowser" is-config="true" duration-ms="12537" started-at="2021-04-06T15:00:48Z" finished-at="2021-04-06T15:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="tabletdetails()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="tabletdetails" duration-ms="9342" started-at="2021-04-06T15:01:01Z" finished-at="2021-04-06T15:01:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabletdetails -->
+        <test-method status="PASS" signature="closebr()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="closebr" is-config="true" duration-ms="1975" started-at="2021-04-06T15:01:10Z" finished-at="2021-04-06T15:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebr -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="openbrowser" is-config="true" duration-ms="13881" started-at="2021-04-06T15:01:12Z" finished-at="2021-04-06T15:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="laptopdetails()[pri:1, instance:uiTest.Productdetailstest@7d9d1a19]" name="laptopdetails" duration-ms="7271" started-at="2021-04-06T15:01:26Z" finished-at="2021-04-06T15:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptopdetails -->
+        <test-method status="PASS" signature="closebr()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="closebr" is-config="true" duration-ms="1877" started-at="2021-04-06T15:01:33Z" finished-at="2021-04-06T15:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebr -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="openbrowser" is-config="true" duration-ms="10611" started-at="2021-04-06T15:01:35Z" finished-at="2021-04-06T15:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="spkdetails()[pri:1, instance:uiTest.Productdetailstest@7d9d1a19]" name="spkdetails" duration-ms="7489" started-at="2021-04-06T15:01:46Z" finished-at="2021-04-06T15:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spkdetails -->
+        <test-method status="PASS" signature="closebr()[pri:0, instance:uiTest.Productdetailstest@7d9d1a19]" name="closebr" is-config="true" duration-ms="2231" started-at="2021-04-06T15:01:53Z" finished-at="2021-04-06T15:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebr -->
+      </class> <!-- uiTest.Productdetailstest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
